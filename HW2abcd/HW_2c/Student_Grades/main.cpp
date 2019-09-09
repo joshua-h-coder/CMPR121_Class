@@ -1,5 +1,5 @@
 #include <iostream>
-#include "header.hpp"
+#include "student_grades.hpp"
 using namespace std;
 
 int main(){

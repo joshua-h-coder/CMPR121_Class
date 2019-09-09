@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <iomanip>
-#include "header.hpp"
+#include "student_grades.hpp"
 
 using namespace std;
 
