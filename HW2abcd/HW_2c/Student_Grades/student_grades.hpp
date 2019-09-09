@@ -1,3 +1,15 @@
+// File: student_grades.hpp
+// ========================================================================================
+// Programmer: Joshua T. Hughes
+// Class: CMPR121
+// Instructor: Dennis Rainey
+// 
+// Description:
+// 	
+// 	This the header file that hold all of the function declarations.
+//
+// ========================================================================================
+
 #include <iostream>
 using namespace std;
 
