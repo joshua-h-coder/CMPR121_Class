@@ -1,3 +1,15 @@
+// File: testScores.hpp
+// =========================================================================
+// Programmer: Joshua T. Hughes
+// Class: CMPR 121
+// Instructor: Dennis Rainey
+//
+// Description:
+//      
+//      This file contains the function declarations for the program.
+//
+// =========================================================================
+
 #include <iostream>
 using namespace std;
 
