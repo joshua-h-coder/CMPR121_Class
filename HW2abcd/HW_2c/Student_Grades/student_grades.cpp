@@ -221,7 +221,7 @@ void calAvgGpa(char studentGrades[5][3],double subAvgGpa[3], int row, int column
 
                 for(int j = 0; j < row; j++){
                         char tempGrade = studentGrades[j][i];
-                        tempGpa += convertGradeToNum(tempGrade, i, j);
+                        tempGpa += convertGradeToNum(tempGrade);
                 }
                 subAvgGpa[i] = tempGpa / 5;
         }
